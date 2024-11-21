@@ -1,6 +1,6 @@
 <div class="container">
     <div class="page-wrap">
-        <!-- <h2><?php the_title(); ?></h2> -->
+       
             <div class="col-md-12 mb-5">
                 <p>
                        <?php  
