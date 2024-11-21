@@ -25,7 +25,9 @@
 
         <!-- <div class="col-md-12 mb-5">
             <?php echo do_shortcode('[Best_Wordpress_Gallery id=""]');?>
-        </div> -->
+       		 </div>
+	    not showing for now
+	    -->
        <div class="col-md-12 mb-5 flex">            
             <div class="col-md-6">
                 <div class="embed-container">
