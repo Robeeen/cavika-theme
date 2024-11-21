@@ -126,7 +126,7 @@ function create_service_cpt() {
 add_action( 'init', 'create_service_cpt', 0 );
 
 
-//create widget for Footer section
+//create widget for Footer section updated
 
 add_action( 'widgets_init', 'my_register_sidebars' );
 function my_register_sidebars() {
