@@ -10,6 +10,6 @@
          </div>
       </div>
    </div>
-   
+   //Closing tag
    </body>
 </html>
