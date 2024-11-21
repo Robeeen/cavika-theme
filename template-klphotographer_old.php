@@ -17,7 +17,7 @@
                 <?php echo $desc; ?>           
                 <?php                 
                     } else { 
-                // do nothing; 
+                // do nothing for now; 
                 }            
                 ?>      
                </p>            
