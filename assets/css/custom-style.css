@@ -126,10 +126,6 @@ ul.primary-menu {
     margin: 0.8rem 0 0 1.6rem;
 }
 
-/* .primary-menu>li.menu-item-has-children>a {
-    padding-right: 2rem;
-} */
-
 .primary-menu>li>.icon {
     right: -0.5rem;
     top: calc(50% - 0.4rem);
