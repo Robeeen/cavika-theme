@@ -3,6 +3,7 @@
 /* Template Name: Services Portraits
    Template Post Type: services 
    Description: Custom Theme from scratch
+   Author: Shams Khan
 */
 ?>
 <?php get_header();?>
